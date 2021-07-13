@@ -22,6 +22,7 @@ export class ProductCreateComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
+
   }
 
   createProduct(): void {
